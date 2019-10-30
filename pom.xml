@@ -35,7 +35,7 @@
             </executions>
             <configuration>
                 <buildArgs>
-                    --no-fallback
+                    --no-fallback --enable-all-security-services
                 </buildArgs>
                 <mainClass>example.java.net.WebSocketExample</mainClass>
             </configuration>
