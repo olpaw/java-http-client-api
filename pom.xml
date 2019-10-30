@@ -37,7 +37,7 @@
                 <buildArgs>
                     --no-fallback --enable-all-security-services
                 </buildArgs>
-                <mainClass>example.java.net.WebSocketExample</mainClass>
+                <mainClass>example.java.net.${example.main}</mainClass>
             </configuration>
         </plugin>
     </plugins>
