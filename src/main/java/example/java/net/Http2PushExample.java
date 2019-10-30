@@ -22,8 +22,6 @@ import java.util.concurrent.Future;
 import java.util.concurrent.ThreadFactory;
 import java.util.function.Function;
 
-import org.apache.log4j.Logger;
-
 public class Http2PushExample {
 
 	static Logger logger = Logger.getLogger(Http2PushExample.class.getName());

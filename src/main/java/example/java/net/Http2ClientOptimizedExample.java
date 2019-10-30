@@ -16,8 +16,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.ThreadFactory;
 
-import org.apache.log4j.Logger;
-
 public class Http2ClientOptimizedExample {
 
 	static Logger logger = Logger.getLogger(Http2ClientOptimizedExample.class.getName());

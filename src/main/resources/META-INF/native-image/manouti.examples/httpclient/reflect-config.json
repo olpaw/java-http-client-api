@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "jdk.internal.net.http.AuthenticationFilter",
+    "methods" : [
+      { "name" : "<init>", "parameterTypes" : [] }
+    ]
+  },
+  {
+    "name" : "jdk.internal.net.http.RedirectFilter",
+    "methods" : [
+      { "name" : "<init>", "parameterTypes" : [] }
+    ]
+  }
+]

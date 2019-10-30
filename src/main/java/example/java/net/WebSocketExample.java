@@ -10,8 +10,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadFactory;
 
-import org.apache.log4j.Logger;
-
 public class WebSocketExample {
 
 	static Logger logger = Logger.getLogger(WebSocketExample.class.getName());

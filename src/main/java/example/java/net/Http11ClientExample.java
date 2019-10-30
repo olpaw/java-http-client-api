@@ -16,8 +16,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.ThreadFactory;
 
-import org.apache.log4j.Logger;
-
 public class Http11ClientExample {
 
 	static Logger logger = Logger.getLogger(Http11ClientExample.class.getName());
