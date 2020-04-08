@@ -33,6 +33,7 @@ public class Logger {
     }
 
     public void setDebugEnabled(boolean debugEnabled) {
+        info("DebugEnabled set to " + debugEnabled);
         this.debugEnabled = debugEnabled;
     }
 }
